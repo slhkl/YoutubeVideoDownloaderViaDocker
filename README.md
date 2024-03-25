@@ -1,5 +1,5 @@
 - You need docker if you want to use this way to download video.
-- This docker image contains python 3.11 version and runs download transactions.
+- This docker image contains python 3.8 version and runs download transactions.
 - Run this command in terminal to create image.
 - docker build . -t slhkl/youtubeDownloader
 
